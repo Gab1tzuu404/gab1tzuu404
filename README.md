@@ -28,6 +28,4 @@ Programming languages and technologies I have the most experience with:
 
 </td></tr></table>
 
-# You can Take this ReadMe and use it for your profile
-# Dont Forget to credit me =)
-# - Gab1tzu
+<p>Bye</p>
