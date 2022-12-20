@@ -20,12 +20,12 @@ Programming languages and technologies I have the most experience with:
 
 <table><tr><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Gab1tzuu404&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
+![Gab1tzu](https://github-readme-stats.vercel.app/api?username=Gab1tzuu404&show_icons=true&theme=transparent)
 
 </td><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gab1tzuu404&hide_border=true&layout=compact&hide=rescript" align="left" style="width: 100%" />
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gab1tzuu404)](https://github.com/anuraghazra/github-readme-stats)
+  
 </td></tr></table>
 
 <p>Bye</p>
