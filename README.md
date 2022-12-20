@@ -2,7 +2,7 @@
 
 <h2>Hello, there. I am Gab1tzuu404.</h2>
 
-🚀 contact@fleps.com | <a href="https://discord.com/users/979482423366664223">Gab1tzu#7822</a> |
+🚀 contact@fleps.xyz | <a href="https://discord.com/users/979482423366664223">Gab1tzu#7822</a> |
 https://fleps.xyz
 </div>
 
