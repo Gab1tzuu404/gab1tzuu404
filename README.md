@@ -33,5 +33,3 @@ Programming languages and technologies I have the most experience with:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gab1tzuu404)](https://github.com/anuraghazra/github-readme-stats)
   
 </td></tr></table>
-
-<p>Bye</p>
