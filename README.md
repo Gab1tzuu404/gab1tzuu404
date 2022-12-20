@@ -15,6 +15,7 @@ Programming languages and technologies I have the most experience with:
 <img align="left" alt="Python" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"/>
 <img align="left" alt="Javascript" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"/>
 <img align="left" alt="nodejs" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg"/>
+<img align="left" alt"html5" width="30px" src"https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
 
 ## Github Stats
 
