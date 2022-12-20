@@ -2,7 +2,7 @@
 
 <h2>Hello, there. I am Gab1tzuu404.</h2>
 
-contact@fleps.com | Gab1tzu#7822 |
+🚀 contact@fleps.com | Gab1tzu#7822 |
 https://fleps.xyz
 </div>
 
